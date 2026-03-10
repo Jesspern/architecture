@@ -153,10 +153,7 @@
 - Web UI — React + TypeScript
 
 **Backend:**
-- API Gateway — Java + Spring Boot
-- User Service — Java + Spring Boot
-- Project Service — Java + Spring Boot
-- Task Service — Java + Spring Boot
+- Backend — C++
 
 **Database:**
 - PostgreSQL — основное хранилище данных
