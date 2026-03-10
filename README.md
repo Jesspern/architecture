@@ -167,7 +167,7 @@
 
 ### Генерация диаграмм из Structurizr DSL
 
-Для просмотра и экспорта диаграмм используйте расширение **C4 Architecture As A Code** в Visual Studio Code.
+Для просмотра и экспорта диаграмм используется расширение **C4 Architecture As A Code** в Visual Studio Code.
 
 **Открытие диаграмм в VS Code:**
 1. Установите расширение `vimpelcom.c4-varp`
